@@ -8,3 +8,17 @@ Yet it was easily provided me with the most education and experience out of all 
 I considered spending the time to clean up what had been developed and very quickly decided against it. Not only was that a task in and of itself, it would have been a fruitless one. As previously stated, the game simply had far too much scope.  
 
 Owing to the number of different features developed, I haven't recorded any footage of Meat Market. Instead, this will be the first project to have its code publicly available.
+
+Features include the following:  
+- NPC Simulation
+- Organ Crafting
+- Procedural Generation
+- Object Pooling
+- Inventory System
+- Shop Management
+- Currencies & Resources
+- Injury Treatment
+- Surgery System
+- Character Statistics
+- Combat & Movement
+- Dialogue System 
